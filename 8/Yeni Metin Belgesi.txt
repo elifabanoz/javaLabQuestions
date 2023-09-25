@@ -1,0 +1,1 @@
+2. soruda deneyin ancak submit etmeyin yazıyordu o yüzden submit etmedim. kodları yazdım.
